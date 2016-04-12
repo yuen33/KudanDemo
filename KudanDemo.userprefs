@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KudanAR/Scripts/Components/KudanTracker.cs">
+    <Files>
+      <File FileName="Assets/KudanAR/Scripts/Components/KudanTracker.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Samples/Scripts/SampleApp.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Editor/KudanTrackerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/TrackerBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Components/TrackableData.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Components/TrackingMethods/TrackingMethodBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Components/TrackingMethods/TrackingMethodMarker.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Components/TrackingMethods/TrackingMethodMarkerless.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Samples/Scripts/SampleScripting.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/NativeInterface.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/TrackerAndroid.cs" Line="61" Column="4" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/ITracker.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/Events.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/TrackerNull.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/TrackerWindows.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Editor/TrackableDataEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Editor/TrackingMethodMarkerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Editor/MarkerTransformDriverEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/Trackable.cs" Line="1" Column="1" />
+      <File FileName="Assets/KudanAR/Scripts/Classes/TrackeriOS.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
